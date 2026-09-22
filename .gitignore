@@ -16,3 +16,12 @@ data/
 uploads/
 backups/
 .DS_Store
+
+# Local work and generated metadata
+work/
+outputs/
+*.egg-info/
+*.tsbuildinfo
+*.db
+*.sqlite
+*.sqlite3
